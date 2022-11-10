@@ -1,0 +1,20 @@
+h1{
+    color:pink
+}
+.heading{
+background-color: #000000;
+display:flex;
+justify-content: space-evenly;
+}
+.description{
+background-color: gray;
+color: #FFFF00
+}
+.body{
+background-color: #FFFF00
+
+}
+.footer{
+background-color:#A300FF;
+justify-content: flex-end;    
+}
